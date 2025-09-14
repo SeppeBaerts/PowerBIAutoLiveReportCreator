@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# PowerBI Auto Live Report Creator specific ignores
+appsettings.json
+*.pbix
+PowerBI_Template_Instructions.txt
+secrets.json
